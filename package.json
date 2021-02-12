@@ -1,0 +1,30 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "learn node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorderor/LearnNodeJs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Georgiyv Petrov <gosha_ppp@bk.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorderor/LearnNodeJs/issues"
+  },
+  "homepage": "https://github.com/Lorderor/LearnNodeJs#readme",
+  "dependencies": {
+    "chalk": "4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  }
+}
